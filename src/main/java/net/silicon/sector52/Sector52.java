@@ -51,8 +51,9 @@ public class Sector52
         // Some common setup code
         LOGGER.info("HELLO FROM COMMON SETUP");
 
-        if (Config.logDirtBlock)
+        if (Config.logDirtBlock) {
             LOGGER.info("DIRT BLOCK >> {}", ForgeRegistries.BLOCKS.getKey(Blocks.DIRT));
+        }
 
         LOGGER.info(Config.magicNumberIntroduction + Config.magicNumber);
 
@@ -62,8 +63,10 @@ public class Sector52
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
-        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS)
-            event.accept(Sector52Items.EXAMPLE_BLOCK_ITEM);
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(Sector52Items.CYBEX_BLOCK_ITEM);
+            event.accept(Sector52Items.TITANIUM_BLOCK_ITEM);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

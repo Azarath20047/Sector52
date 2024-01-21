@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "sector52:block/titanium_ore_down",
+    "east": "sector52:block/titanium_ore_east",
+    "north": "sector52:block/titanium_ore_north",
+    "particle": "sector52:block/titanium_ore_north",
+    "south": "sector52:block/titanium_ore_south",
+    "up": "sector52:block/titanium_ore_up",
+    "west": "sector52:block/titanium_ore_west"
+  }
+}

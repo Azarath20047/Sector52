@@ -10,3 +10,5 @@
 >Textures and Animations by MrsChomper
 
 >Structures by SomebodyOnceToldMe
+
+first git implement, bot test.

@@ -1,5 +1,7 @@
 # Sector52, a Transformers mod for Minecraft
-> Developed by Silicon, Jason13, MrsChomper, SomebodyOnceToldMe, and Damn_Soup
+>Founded by Vapaad, MrsChomper, and Silicon
+
+>Developed by Silicon, Jason13, MrsChomper, SomebodyOnceToldMe, and Damn_Soup
    
 >Coding by Jason13 and Silicon
   

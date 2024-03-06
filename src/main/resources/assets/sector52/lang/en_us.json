@@ -1,5 +1,6 @@
 {
   "itemGroup.sector_52_tab_1": "Sector52",
   "block.sector52.cybex_ore": "Cybex Ore",
-  "block.sector52.titanium_ore": "Titanium Ore"
+  "block.sector52.titanium_ore": "Titanium Ore",
+  "item.sector52.cybex_chunk": "Cybex Chunk"
 }

@@ -19,5 +19,6 @@ public class Sector52Tabs {
     .displayItems((parameters, output) -> {
       output.accept(Sector52Items.CYBEX_BLOCK_ITEM.get());
       output.accept(Sector52Items.TITANIUM_BLOCK_ITEM.get());
+      output.accept(Sector52Items.CYBEX_CHUNK_ITEM.get());
     }).build());
 }

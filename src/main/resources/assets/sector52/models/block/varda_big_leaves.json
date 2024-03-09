@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "sector52:block/varda_big_leaves_top",
+    "east": "sector52:block/varda_big_leaves_side",
+    "north": "sector52:block/varda_big_leaves_side",
+    "particle": "sector52:block/varda_big_leaves_side",
+    "south": "sector52:block/varda_big_leaves_side",
+    "up": "sector52:block/varda_big_leaves_top",
+    "west": "sector52:block/varda_big_leaves_side"
+  }
+}

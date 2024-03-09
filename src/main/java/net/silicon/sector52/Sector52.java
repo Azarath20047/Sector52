@@ -66,6 +66,9 @@ public class Sector52
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(Sector52Items.CYBEX_BLOCK_ITEM);
             event.accept(Sector52Items.TITANIUM_BLOCK_ITEM);
+            event.accept(Sector52Items.VARDA_LOG_BLOCK_ITEM);
+            event.accept(Sector52Items.VARDA_BIG_LEAVES_BLOCK_ITEM);
+            event.accept(Sector52Items.VARDA_SMALL_LEAVES_BLOCK_ITEM);
         }
     }
 

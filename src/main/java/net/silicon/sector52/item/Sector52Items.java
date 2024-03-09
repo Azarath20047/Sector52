@@ -18,4 +18,9 @@ public class Sector52Items {
   
   public static final RegistryObject<Item> CYBEX_BLOCK_ITEM = ITEMS.register("cybex_ore", () -> new BlockItem(Sector52Blocks.CYBEX_ORE_BLOCK.get(), new Item.Properties()));
   public static final RegistryObject<Item> TITANIUM_BLOCK_ITEM = ITEMS.register("titanium_ore", () -> new BlockItem(Sector52Blocks.TITANIUM_ORE_BLOCK.get(), new Item.Properties()));
+  public static final RegistryObject<Item> VARDA_BIG_LEAVES_BLOCK_ITEM = ITEMS.register("varda_big_leaves", () -> new BlockItem(Sector52Blocks.VARDA_BIG_LEAVES_BLOCK.get(), new Item.Properties()));
+  public static final RegistryObject<Item> VARDA_SMALL_LEAVES_BLOCK_ITEM = ITEMS.register("varda_small_leaves", () -> new BlockItem(Sector52Blocks.VARDA_SMALL_LEAVES_BLOCK.get(), new Item.Properties()));
+  public static final RegistryObject<Item> VARDA_LOG_BLOCK_ITEM = ITEMS.register("varda_log", () -> new BlockItem(Sector52Blocks.VARDA_LOG_BLOCK.get(), new Item.Properties()));
+
+
 }

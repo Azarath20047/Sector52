@@ -1,21 +1,7 @@
 {
   "variants": {
-    "": [
-      {
-        "model": "sector52:block/cybex_ore"
-      },
-      {
-        "model": "sector52:block/cybex_ore",
-        "y": 90
-      },
-      {
-        "model": "sector52:block/cybex_ore",
-        "y": 180
-      },
-      {
-        "model": "sector52:block/cybex_ore",
-        "y": 270
-      }
-    ]
+    "": {
+      "model": "sector52:block/cybex_ore"
+    }
   }
 }

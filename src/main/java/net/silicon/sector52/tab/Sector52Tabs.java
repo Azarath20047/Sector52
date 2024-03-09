@@ -20,5 +20,8 @@ public class Sector52Tabs {
       output.accept(Sector52Items.CYBEX_BLOCK_ITEM.get());
       output.accept(Sector52Items.TITANIUM_BLOCK_ITEM.get());
       output.accept(Sector52Items.CYBEX_CHUNK_ITEM.get());
+      output.accept(Sector52Items.VARDA_BIG_LEAVES_BLOCK_ITEM.get());
+      output.accept(Sector52Items.VARDA_SMALL_LEAVES_BLOCK_ITEM.get());
+      output.accept(Sector52Items.VARDA_LOG_BLOCK_ITEM.get());
     }).build());
 }

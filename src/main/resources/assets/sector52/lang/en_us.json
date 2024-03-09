@@ -1,6 +1,9 @@
 {
-  "itemGroup.sector_52_tab_1": "Sector52 General",
   "block.sector52.cybex_ore": "Cybex Ore",
   "block.sector52.titanium_ore": "Titanium Ore",
-  "item.sector52.cybex_chunk": "Cybex Chunk"
+  "block.sector52.varda_big_leaves": "Varda Big Leaves",
+  "block.sector52.varda_log": "Varda Log",
+  "block.sector52.varda_small_leaves": "Varda Small Leaves",
+  "item.sector52.cybex_chunk": "Cybex Chunk",
+  "itemGroup.sector_52_tab_1": "Sector52 General"
 }
